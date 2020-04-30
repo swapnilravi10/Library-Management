@@ -158,7 +158,7 @@ public class AddBook extends javax.swing.JFrame {
     }//GEN-LAST:event_add_btnActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        LibrarianLogin.main(new String[] {});
+        LibrarianSection.main(new String[] {});
         dispose();
     }//GEN-LAST:event_jButton1ActionPerformed
 
